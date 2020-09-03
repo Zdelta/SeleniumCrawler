@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Jumony.Core.Standard" Version="1.0.0" />
+    <PackageReference Include="log4net" Version="2.0.9" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="3.1.7" />
+    <PackageReference Include="Selenium.Chrome.WebDriver" Version="83.0.0" />
+    <PackageReference Include="Selenium.Support" Version="3.141.0" />
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0" />
+  </ItemGroup>
+</Project>

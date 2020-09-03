@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumCrawler", "SeleniumCrawler\SeleniumCrawler.csproj", "{FF5D0763-956E-4EEA-878F-7A7D688FA441}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF5D0763-956E-4EEA-878F-7A7D688FA441}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D0763-956E-4EEA-878F-7A7D688FA441}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D0763-956E-4EEA-878F-7A7D688FA441}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D0763-956E-4EEA-878F-7A7D688FA441}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D8E5A41-8A32-46A2-9BE3-ED14F5C3EB70}
+	EndGlobalSection
+EndGlobal
